@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/MinQueue.h
+circQueue+copy.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/circQueue+copy.h
+stack
+-
+utility
+-
+vector
+-
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/circQueue+copy.h
+iostream
+-
+linked_list.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/linked_list.h
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/linked_list.h
+iostream
+-
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/main.cpp
+iostream
+-
+vector
+-
+MinQueue.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_4/MinQueue.h
+

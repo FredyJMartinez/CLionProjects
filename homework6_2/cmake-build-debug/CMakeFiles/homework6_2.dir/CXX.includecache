@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework6_2/Tree.h
+utility
+-
+iostream
+-
+stdio.h
+-
+tuple
+-
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework6_2/main.cpp
+algorithm
+-
+iostream
+-
+numeric
+-
+stdlib.h
+-
+time.h
+-
+vector
+-
+Tree.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework6_2/Tree.h
+

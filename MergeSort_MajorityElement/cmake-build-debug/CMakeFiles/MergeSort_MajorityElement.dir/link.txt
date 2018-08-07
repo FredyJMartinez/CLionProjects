@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/MergeSort_MajorityElement.dir/main.cpp.o  -o MergeSort_MajorityElement.exe -Wl,--out-implib,libMergeSort_MajorityElement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

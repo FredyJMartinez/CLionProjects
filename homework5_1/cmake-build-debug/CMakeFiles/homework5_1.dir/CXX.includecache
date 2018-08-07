@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_1/combinations.h
+vector
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_1/vector
+cmath
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_1/cmath
+algorithm
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_1/algorithm
+stdio.h
+-
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_1/main.cpp
+iostream
+-
+combinations.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_1/combinations.h
+chrono
+-
+ctime
+-
+

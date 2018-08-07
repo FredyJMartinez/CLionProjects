@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CC11172.dir/CC11172.cpp.o  -o CC11172.exe -Wl,--out-implib,libCC11172.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

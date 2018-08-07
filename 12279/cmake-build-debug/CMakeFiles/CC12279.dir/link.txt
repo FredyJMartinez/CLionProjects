@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CC12279.dir/CC12279.cpp.o  -o CC12279.exe -Wl,--out-implib,libCC12279.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/UVA11498.dir/main.cpp.o  -o UVA11498.exe -Wl,--out-implib,libUVA11498.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

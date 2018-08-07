@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/dynamic_fibonacci.dir/main.cpp.o  -o dynamic_fibonacci.exe -Wl,--out-implib,libdynamic_fibonacci.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

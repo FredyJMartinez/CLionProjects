@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Fredy/CLionProjects/CC11172/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Fredy/CLionProjects/CC11172/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Fredy/CLionProjects/CC11172/cmake-build-debug/CMakeFiles/CC11172.dir

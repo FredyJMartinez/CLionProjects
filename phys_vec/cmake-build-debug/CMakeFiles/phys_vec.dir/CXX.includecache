@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Fredy/CLionProjects/phys_vec/PhysVec.cpp
+PhysVec.h
+/cygdrive/c/Users/Fredy/CLionProjects/phys_vec/PhysVec.h
+
+/cygdrive/c/Users/Fredy/CLionProjects/phys_vec/PhysVec.h
+iostream
+-
+vector
+-
+
+/cygdrive/c/Users/Fredy/CLionProjects/phys_vec/main.cpp
+iostream
+-
+PhysVec.h
+/cygdrive/c/Users/Fredy/CLionProjects/phys_vec/PhysVec.h
+vector
+-
+

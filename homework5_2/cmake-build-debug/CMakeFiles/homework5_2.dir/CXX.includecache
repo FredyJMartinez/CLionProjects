@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_2/circQueue+copy.h
+iostream
+-
+linked_list.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_2/linked_list.h
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_2/linked_list.h
+iostream
+-
+
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_2/queueMain.cpp
+iostream
+-
+circQueue+copy.h
+/cygdrive/c/Users/Fredy/CLionProjects/homework5_2/circQueue+copy.h
+
